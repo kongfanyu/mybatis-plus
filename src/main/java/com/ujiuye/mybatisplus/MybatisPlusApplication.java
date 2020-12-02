@@ -1,9 +1,8 @@
 package com.ujiuye.mybatisplus;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//mybatis-plus示例程序
 @SpringBootApplication
 public class MybatisPlusApplication {
 
